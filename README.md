@@ -4,7 +4,7 @@
 ## Projetos do curso:
 - Projeto Anna Bella
 
-### Projeto 1 -Projeto Anna Bella
+# Projeto 1 -Projeto Anna Bella
 - Site criado do zero usando o HTML5 e o CSS3
 - Site em funcionamento. [Projeto Anna Bella](http://vectors.rf.gd/cursoDesenvolvimentoWeb/ProjetoAnnaBella)
 
